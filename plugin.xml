@@ -20,8 +20,6 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <engine name="cordova-ios" version=">=5.0.1"/>
     </engines>
 
-    <dependency id="cordova-plugin-firebase-analytics" version="~4.4.2"/>
-
     <platform name="ios">
         <preference name="IOS_FIREBASE_MESSAGING_VERSION" default="~> 6.31.0"/>
 
